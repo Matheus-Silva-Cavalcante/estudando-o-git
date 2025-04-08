@@ -23,4 +23,6 @@ Elementos em bloco, ou elementos block level, são elementos que ocupam todo o e
 	<hr>: constrói uma linha horizontal;
 	<video>: insere vídeos no site;
 
-Uma mudança no arquivo pra teste do git
+Uma mudança no arquivo para teste do git
+
+outra mudança no arquivo para teste do git
