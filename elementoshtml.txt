@@ -1,0 +1,26 @@
+Elementos em linha
+Elementos em linha, também conhecidos como inline, são elementos que ocupam somente a largura do seu conteúdo, como as tags:
+
+	<a>: é possível definir links com essa tag;
+	<span>: é um container genérico para agrupar textos;
+	<br>: cria uma quebra de linha;
+	<img loading="lazy">: insere imagens no site;
+	<audio>: insere áudios no site.
+
+Elementos em bloco
+Elementos em bloco, ou elementos block level, são elementos que ocupam todo o espaço do seu elemento pai. Por exemplo, as tags:
+
+	<header>: define o cabeçalho da página;
+	<main>: define o conteúdo principal da página;
+	<footer>: define o rodapé da página;
+	<section>: representa uma seção dentro do conteúdo principal;
+	<article>: inclui um artigo na página;
+	<aside>: faz referência a um outro conteúdo da página;
+	<nav>: cria o menu de navegação;
+	<div>: é como uma divisão na página para fins estéticos;
+	<p>: representa um parágrafo;
+	<h1>: define os títulos da página e se inicia no <h1> e vai até o <h6>;
+	<hr>: constrói uma linha horizontal;
+	<video>: insere vídeos no site;
+
+Uma mudança no arquivo pra teste do git
